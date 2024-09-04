@@ -12,7 +12,7 @@ This Python script is a basic keylogger that captures and logs keystrokes. This 
 ## Usage
 
 1. Clone the repository:
-git clone https://github.comsakthivel-sec/Basic-Keylogger.git
+git clone https://github.com/sakthivel-sec/Basic-Keylogger.git
 2. Navigate to the project directory:
 cd Basic-Keylogger
 3. Install required dependencies:
