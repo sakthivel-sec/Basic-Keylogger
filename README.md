@@ -21,6 +21,27 @@ pip install pynput
 python keylogger.py
 5. The keylogger will log keystrokes to `keylog.txt`. Press `Esc` to stop the keylogger.
 
+Key Features of the Keylogger:
+Keystroke Logging:
+
+Logs all keystrokes to a file named keylog.txt.
+Handling Special Keys:
+
+Handles special keys (e.g., Shift, Ctrl) and logs them in a readable format.
+Stopping the Keylogger:
+
+The keylogger stops running when the Esc key is pressed.
+Ethical and Legal Considerations:
+Permission:
+
+Always obtain explicit permission from users before installing or running a keylogger on their systems.
+Privacy:
+
+Use keyloggers responsibly and ensure that data is handled with the utmost care to respect user privacy.
+Legal Compliance:
+
+Be aware of and comply with legal regulations regarding data collection and monitoring in your jurisdiction.
+
 ## Ethical Considerations
 
 - Permission: Obtain explicit permission from users before running or deploying keylogging software.
